@@ -1,2 +1,50 @@
-This is a simple and powerful personal protfolio 
-showcasing about my service, social links 
+# Ghanashyam Budhathoki's Portfolio
+
+![Web Banner](https://images.unsplash.com/photo-1581092795360-1d3788c3b118?auto=format&fit=crop&w=1500&q=80)
+<!-- Replace the URL with your preferred banner image -->
+
+## 🚀 About Me
+Hi! I’m **Ghanashyam Budhathoki**, a passionate **Programmer, Writer, and Problem Solver**.  
+I love creating **clean, efficient code**, building **beautiful user interfaces**, and sharing knowledge with others.  
+My portfolio showcases my **services, projects, and social links** to help you know more about my work.
+
+---
+
+## 🛠️ Skills & Expertise
+
+### Technical Skills
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+
+### Soft Skills
+![Communication](https://img.shields.io/badge/Communication-FFD700?style=for-the-badge&logo=linkedin&logoColor=white)
+![Problem Solving](https://img.shields.io/badge/Problem_Solving-FF7F50?style=for-the-badge)
+![Creative Thinking](https://img.shields.io/badge/Creative_Thinking-00BFFF?style=for-the-badge)
+![Video Editing](https://img.shields.io/badge/Video_Editing-F08080?style=for-the-badge)
+
+---
+
+## 📂 Portfolio Highlights
+- **Web Development:** Responsive websites using HTML, CSS, JavaScript, Laravel & PHP.
+- **Mobile Development:** Cross-platform apps with Flutter & Dart.
+- **Content Creation:** Writing blogs and tutorials to share knowledge.
+- **Video Editing:** Creative projects and tutorials for social media.
+
+---
+
+---
+
+## 💡 Quote
+*"Striving to build clean code and share knowledge to empower others in the tech world."*
+
+---
+
+## 📝 Notes
+- Clean, mobile-friendly, and visually engaging.
+- Badges make skills and connections clear at a glance.
+- Banner adds a professional web presence look right in GitHub.
