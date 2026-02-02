@@ -1,7 +1,5 @@
 # Ghanashyam Budhathoki's Portfolio
 
-![Web Banner](https://images.unsplash.com/photo-1581092795360-1d3788c3b118?auto=format&fit=crop&w=1500&q=80)
-<!-- Replace the URL with your preferred banner image -->
 
 ## 🚀 About Me
 Hi! I’m **Ghanashyam Budhathoki**, a passionate **Programmer, Writer, and Problem Solver**.  
