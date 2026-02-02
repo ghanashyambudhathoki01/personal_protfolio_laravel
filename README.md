@@ -4,8 +4,7 @@
 ## 🚀 About Me
 Hi! I’m **Ghanashyam Budhathoki**, a passionate **Programmer, Writer, and Problem Solver**.  
 I love creating **clean, efficient code**, building **beautiful user interfaces**, and sharing knowledge with others.  
-My portfolio showcases my **services, projects, and social links** to help you know more about my work.
-
+this portfolio showcases my **services, and social links** to help you reach me to make your project or say hii to me.
 ---
 
 ## 🛠️ Skills & Expertise
@@ -41,8 +40,3 @@ My portfolio showcases my **services, projects, and social links** to help you k
 *"Striving to build clean code and share knowledge to empower others in the tech world."*
 
 ---
-
-## 📝 Notes
-- Clean, mobile-friendly, and visually engaging.
-- Badges make skills and connections clear at a glance.
-- Banner adds a professional web presence look right in GitHub.
