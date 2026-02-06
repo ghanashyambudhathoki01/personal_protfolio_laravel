@@ -2,9 +2,10 @@
 
 
 ## 🚀 About Me
-Hi! I’m **Ghanashyam Budhathoki**, a passionate **Programmer, Writer, and Problem Solver**.  
-I love creating **clean, efficient code**, building **beautiful user interfaces**, and sharing knowledge with others.  
-this portfolio showcases my **services, and social links** to help you reach me to make your project or say hii to me.
+Hi! I’m Ghanashyam Budhathoki, a passionate Programmer, Writer, and Problem Solver.  
+I love creating clean, efficient code, building bautiful user interfaces, and sharing knowledge with others.  
+This portfolio showcases my services, and social links and doesn't responsive maybe i would make
+responsive in future if you want  reach me to make your project or say hii to me.
 ---
 
 ## 🛠️ Skills & Expertise
