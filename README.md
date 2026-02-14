@@ -68,8 +68,8 @@ Contributions are always welcome.  Any contributions you make for this project  
 3. **Configure environment:**
    ```bash
    copy .env.example code   create .env file and paste the code. 
-  And put this command  php artisan key:generate
-   ```
+  And put this command  php artisan key:generate ```
+ ```
    *Note: Update your `.env` file with your database credentials.*
 
 4. **Run migrations & seeders:**
