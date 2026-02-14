@@ -1,3 +1,7 @@
+[![Laravel Version](https://img.shields.io/badge/Laravel-12.x-red.svg)](https://laravel.com)
+[![PHP Version](https://img.shields.io/badge/PHP-8.2%2B-blue.svg)](https://php.net)
+[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+
 # Professional Full-Stack Portfolio
 
 This is a modern, professional, and fully responsive personal portfolio application built with Laravel. It features a sleek minimalist design, dark mode support, a robust blog system, and a centralized enquiry management backend.
