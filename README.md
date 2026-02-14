@@ -73,12 +73,6 @@ This is a modern, professional, and fully responsive personal portfolio applicat
 
 ---
 
-## 📱 Screenshots (Coming Soon)
-
-*(Add your high-quality project screenshots here)*
-
----
-
 ## 📄 License
 
 This project is open-sourced software licensed under the [MIT license](LICENSE).
